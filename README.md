@@ -84,7 +84,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![alt text](img-1.png)
+
+![alt text](exp04.png)
 
 
 
